@@ -18,6 +18,7 @@ BDB_INCLUDE_PATH=D:/deps/db/build_unix
 BDB_LIB_PATH=D:/deps/db/build_unix
 OPENSSL_INCLUDE_PATH=D:/deps/ssl/include
 OPENSSL_LIB_PATH=D:/deps/ssl
+
 #MINIUPNPC_LIB_PATH=D:/deps/miniupnpc
 #MINIUPNPC_INCLUDE_PATH=D:/deps
 
